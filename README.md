@@ -3,7 +3,8 @@ IEC 60870-5-104 Client/Server
 
 Summary
 -------
-Client/Server for the IEC 60870-5-104 protocol implementation using Tornado for its asynchronous communications core.
+Client/Server for the IEC 60870-5-104 protocol.
+Updated to python3 from Source python2 code repository: https://github.com/ebolon/iec104
 
 Development
 -----------
@@ -23,8 +24,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-
-Contact
--------
-Please do not hesitate to contact me if you have comments or questions.
